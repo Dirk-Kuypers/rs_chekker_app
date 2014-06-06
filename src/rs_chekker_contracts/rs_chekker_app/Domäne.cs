@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace rs_chekker_app
 {
-    public class Class1
+    interface Domäne
     {
     }
 }
